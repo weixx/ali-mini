@@ -1,0 +1,8 @@
+<!-- 小程序收藏组件，更多高级用法请参考文档：https://docs.alipay.com/mini/component/component-favorite -->
+<favorite>收藏小程序，下次使用更方便</favorite>
+
+<view>
+  <image style="width: 300px; height:300px;" src="../../images/1552982485.jpg" />
+  <text>支付宝扫码向我付款</text>
+  <!-- <button onTap="sayHello">点击付款</button> -->
+</view>

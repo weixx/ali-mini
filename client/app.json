@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "欣欣小程序",
+    "titleBarColor": "#333339"
+  }
+}
